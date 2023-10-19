@@ -1,4 +1,4 @@
 # Lecture 1 
 
-* [Dynamical Systems introduction (Google Slides)](https://docs.google.com/presentation/d/e/2PACX-1vQlFDTAc_vhVPzq8ja6rQv3Ui2FXN1MJc3lIHPvOgSVPWX7VZRGBtIM6pfjGcLQIOMP2LCa2X9_XBf3/pub?start=false&loop=false&delayms=3000)
+* [Dynamical Systems introduction (Google Slides)](https://docs.google.com/presentation/d/1fwNPA39W8G1GUvGEXi3w_QdaYvq7HHKp2y7FWqxU934/edit?usp=sharing)
 * Introduction to the Julia Programming Language 
