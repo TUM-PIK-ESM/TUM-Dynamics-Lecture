@@ -1,4 +1,4 @@
 # Lecture 2
 
-* [Dynamical Systems: Differential Equation Solvers (Google Slides)](https://docs.google.com/presentation/d/1iMwo9KVoB--p0kF2zW3soOmQQxBWcQ0fSVabi5TgGfw/edit?usp=sharing)
+* [Dynamical Systems: Stability and Bifurcations I (Google Slides)](https://docs.google.com/presentation/d/1Mg8D5mYQBGPfYa0HIuuwVcN2DupB2m87BIMJM46owDI/edit?usp=sharing)
 * Pkg.jl, DifferentialEquations.jl, Git and GitHub
