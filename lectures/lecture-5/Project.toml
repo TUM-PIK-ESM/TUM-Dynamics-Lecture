@@ -1,0 +1,4 @@
+[deps]
+DynamicalSystems = "61744808-ddfa-5f27-97ff-6e42cc95d634"
+NearestNeighbors = "b8a86587-4115-5ab1-83bc-aa920d37bbce"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
