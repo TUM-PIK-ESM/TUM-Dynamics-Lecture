@@ -2,4 +2,3 @@
 
 * Dynamics of Epidemiological Models
 * Julia: Packages
-* 
