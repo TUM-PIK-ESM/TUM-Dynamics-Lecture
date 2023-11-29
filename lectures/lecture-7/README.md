@@ -1,4 +1,4 @@
 # Lecture 7
 
-* Dynamics of Epidemiological Models
-* Julia: Packages
+* Climate Models I: Energy Balance Models (EBMs)
+* CI/CD with Julia 
