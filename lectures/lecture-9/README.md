@@ -1,4 +1,4 @@
 # Lecture 9
 
-* Climate Models (Part II) & PDEs (Part I) 
-* Parallelism in Julia
+* Ghil-Sellers 1D Energy Balance Model
+* Performance tips & tricks for Julia
