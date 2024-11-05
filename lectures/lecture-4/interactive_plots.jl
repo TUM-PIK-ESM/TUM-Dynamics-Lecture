@@ -26,3 +26,4 @@ p_min, p_max = 0.8, 1.4  # Min,max value of parameter
 title = "Orbit Diagram for the Hénon map"
 
 fig, dsobs = interactive_orbitdiagram(henon, p_index, p_min, p_max, i, parname = "a", title = title)
+fig
